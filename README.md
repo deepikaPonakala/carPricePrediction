@@ -145,17 +145,6 @@ Highway MPG
 
 Predicted car price displayed instantly on the webpage.
 
-# Key Highlights
-
-End-to-end ML pipeline
-
-Proper feature alignment using saved column metadata
-
-Clean Flask backend
-
-User-friendly frontend
-
-
 Add REST API support
 
 Add prediction confidence score
