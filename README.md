@@ -155,15 +155,6 @@ Clean Flask backend
 
 User-friendly frontend
 
-# Future Enhancements
-
-Add dropdown auto-population from dataset
-
-Add model comparison dashboard
-
-Improve UI using Bootstrap
-
-Deploy on Render / Railway / Heroku
 
 Add REST API support
 
